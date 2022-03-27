@@ -1,0 +1,62 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Harbour Bay, Batam -> Bakauheni, Lampung (25 Februari 2022)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Tanjung Priok, Jakarta -> Tanjung Priok, Jakarta (05 Maret 2022)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Merak, Banten -> Teluk Bayur, Padang (15 Februari 2022)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Soekarno-Hatta, Makassar -> Merak, Banten (19 Maret 2022)",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Teluk Bayur, Padang -> Harbour Bay, Batam (09 Januari 2022)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Bakauheni, Lampung -> Soekarno-Hatta, Makassar (18 Februari 2022)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "Merak, Banten -> Bakauheni, Lampung (06 Januari 2022)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "Harbour Bay, Batam -> Teluk Bayur, Padang (29 Februari 2022)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "Bakauheni, Lampung -> Soekarno-Hatta, Makassar (01 Januari 2022)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "Merak, Banten -> Tanjung Priok, Jakarta (22 Februari 2022)",
+    "completed": false
+  }
+]
